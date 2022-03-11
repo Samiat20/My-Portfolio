@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+}
+.wrapper{
+    width: 70%;
+    margin: auto;
+}
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 200px;
+    height: 100vh;
+}
+.intro{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.name{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 150px;
+    line-height: 0%;
+    margin-top: 25px;
+}
+.first{
+    font-family:'Sansita Swashed', cursive;
+    margin-left: 95px;
+    margin-bottom: -5px;
+}
+.intro p{
+    
+}
