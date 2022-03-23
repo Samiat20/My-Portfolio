@@ -84,4 +84,7 @@ section h2{
     text-decoration: none;
     margin: 5px;
 }
+.about a{
+    color: yellow;
+}
 
